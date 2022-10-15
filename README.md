@@ -4,6 +4,6 @@ prequisites python 3 and colorama installed
 
 
 # installation
-pip3 install python3 -m pip
-pip install colorama
-python3 osint social.py
+pip3 install python3 -m pip\n
+pip install colorama\n
+python3 osint social.py\n
